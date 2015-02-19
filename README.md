@@ -1,1 +1,5 @@
 # nyuteam
+## Team
+
+* George
+ 
